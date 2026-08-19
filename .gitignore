@@ -1,0 +1,63 @@
+# =========================
+# Gradle
+# =========================
+.gradle/
+.gradle-user/
+**/build/
+
+# =========================
+# Kotlin
+# =========================
+.kotlin/
+**/.kotlin/
+**/kotlin-daemon*
+**/kotlin-compiler*
+*.alive
+
+# =========================
+# Android local/cache
+# =========================
+.android/
+.android-user/
+local.properties
+
+# =========================
+# Temporary files
+# =========================
+.tmp/
+**/.tmp/
+*.tmp
+
+# =========================
+# Logs / crash reports
+# =========================
+*.log
+hs_err_pid*.log
+replay_pid*.log
+
+# =========================
+# IDE
+# =========================
+.idea/
+.vscode/
+*.iml
+
+# =========================
+# Build outputs
+# =========================
+*.apk
+*.aab
+
+# =========================
+# Signing keys
+# =========================
+*.jks
+*.keystore
+# Generated verification folders
+.verification-build/
+.verification-solo-queue/
+# =========================
+# OS
+# =========================
+Thumbs.db
+.DS_Store

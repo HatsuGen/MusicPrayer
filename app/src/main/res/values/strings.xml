@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">musicPrayer</string>
+    <string name="choose_music_folder">Choose music folder</string>
+    <string name="now_playing">Now playing</string>
+    <string name="your_library">Your Music</string>
+    <string name="settings">Settings</string>
+</resources>

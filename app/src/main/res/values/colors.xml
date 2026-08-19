@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="eva_background">#09090B</color>
+    <color name="eva_purple">#8B5CF6</color>
+    <color name="eva_green">#7CFF4F</color>
+    <color name="pipeline_pink">#FFFFF3F8</color>
+    <color name="pipeline_accent">#FFFF4F9A</color>
+</resources>
